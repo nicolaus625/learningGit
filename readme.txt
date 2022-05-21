@@ -6,4 +6,5 @@ Git tracks changes of files.
 Test username
 refined username
 use git config --global user.email as well
+refined username but remain the email
 
